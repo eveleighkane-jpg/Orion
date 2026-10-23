@@ -1,0 +1,6 @@
+{
+  "name": "Orion Terminal",
+  "description": "Android privileged shell console, dynamic SELinux inspector, Magisk boot patcher engine, and virtual root explorer with zero personal secrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

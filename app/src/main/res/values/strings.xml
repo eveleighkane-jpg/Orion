@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Orion Terminal</string>
+    <string name="terminal_title">Orion Shell</string>
+    <string name="magisk_engine_title">Magisk Privilege Core</string>
+    <string name="file_browser_title">Visual File Browser</string>
+    <string name="permissions_wizard_title">Special Access &amp; Privileges</string>
+    <string name="selinux_badge">SELinux</string>
+    <string name="run_command">Execute</string>
+    <string name="clear_terminal">Clear</string>
+</resources>
